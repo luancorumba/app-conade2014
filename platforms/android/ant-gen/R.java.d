@@ -1,4 +1,4 @@
-/home/luancorumba/Documentos/WEB/phonegap/conade/platforms/android/ant-gen/com/phonegap/helloworld/R.java \
+/home/luancorumba/Documentos/WEB/phonegap/conade/platforms/android/ant-gen/com/phonegap/conade/R.java \
  : /home/luancorumba/Documentos/WEB/phonegap/conade/platforms/android/res/drawable-ldpi/icon.png \
 /home/luancorumba/Documentos/WEB/phonegap/conade/platforms/android/res/drawable-port-ldpi/screen.png \
 /home/luancorumba/Documentos/WEB/phonegap/conade/platforms/android/res/drawable/icon.png \

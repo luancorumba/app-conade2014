@@ -1771,10 +1771,7 @@ PARALLAX EFFECTS...........................1474
 					font-size: 200%;
 					line-height: 35px;
 					}
-				[class*="span3"], .uneditable-input[class*="span3"], .row-fluid [class*="span3"]{
-					width:50%;
-					float:left;
-				}
+				
 			}
 
 input[type='checkbox'] {
